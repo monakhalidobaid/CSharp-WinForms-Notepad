@@ -24,3 +24,6 @@ This project was created while learning Windows Forms and practicing working wit
 * Windows Forms
 * Visual Studio
 
+---
+## 📸 Preview
+<img src="1.png" width="700">
